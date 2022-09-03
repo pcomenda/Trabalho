@@ -2,6 +2,9 @@ int lado_1 = Console.ReadLine();
 int lado_2 = Console.ReadLine();
 int lado_3 = Console.ReadLine();
 
+
+//Alteração realizada por Pedro
+
 if(lado_1 == lado_2 && lado_1 == lado_3){
     Console.WriteLine("O triângulo é Equilátero");
 }
